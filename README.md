@@ -1,6 +1,8 @@
 
 # **Fury Drone Project**
 
+![FuryVision AAV](/images/cover.jpg "FuryVision AAV")
+
 Welcome to the **Fury Drone Project** repository! This project showcases the development of **Fury**, a high-performance, multi-mission **Autonomous Air Vehicle (AAV)** platform designed for various aerial missions, incorporating advanced sensors and components.
 
 The repository contains everything you need to build, modify, and fly the **Fury Drone**, including design files, firmware, software, and documentation for multiple versions of the drone.
