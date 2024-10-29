@@ -41,7 +41,7 @@ To get started with building and flying the **Fury Drone**, follow these steps:
 
 ### 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/sidharthmohannair/Furry-Drone-Project.git
+   git clone https://github.com/sidharthmohannair/Fury-Drone-Project.git
 
    cd Furry-Drone-Project
    ```
