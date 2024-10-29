@@ -56,6 +56,8 @@ For the complete step-by-step assembly process, including frame construction, mo
    - If required, you can find the firmware file in the `firmware/pixhawk_firmware/` folder.
 4. Wait for the installation to complete, and then reboot the Pixhawk.
 
+**Referance for Installing ArduCopter Firmware: [Link](https://ardupilot.org/copter/docs/common-loading-firmware-onto-pixhawk.html)**
+
 ### 3.2 Uploading Tuned Parameters
 1. After the firmware is successfully installed, go to the **Configuration** tab in Mission Planner.
 2. Select **Full Parameter List** and upload the pre-tuned parameter file from the `firmware/parameter/` folder (`fury_drone1.param`).
@@ -71,15 +73,21 @@ To ensure optimal flight performance, you will need to calibrate various sensors
 1. In Mission Planner, navigate to the **Initial Setup** tab.
 2. Select **Accelerometer Calibration** and follow the on-screen instructions to calibrate the drone’s orientation and leveling.
 
+   **Referance for Accelerometer Calibration: [Link](https://ardupilot.org/planner/docs/common-accelerometer-calibration.html)**
+
 ### 4.2 Compass Calibration
 1. Go to **Initial Setup** > **Compass**.
 2. Perform the compass calibration by rotating the drone in different orientations as prompted.
    - Make sure there is no significant magnetic interference during calibration.
 
+   **Referance for Compass Calibration: [Link](https://ardupilot.org/planner/docs/common-compass-calibration-in-mission-planner.html)**
+
 ### 4.3 Radio Calibration
 1. Bind your remote controller to the drone and ensure that it is properly connected.
 2. In Mission Planner, navigate to **Initial Setup** > **Radio Calibration**.
 3. Follow the on-screen instructions to calibrate the radio channels (Throttle, Pitch, Roll, Yaw).
+
+   **Referance for Radio Calibration: [Link](https://ardupilot.org/planner/docs/common-radio-control-calibration.html)**
 
 ---
 
