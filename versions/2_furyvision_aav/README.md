@@ -1,6 +1,6 @@
 
 # FuryVision AAV - Version 2
-
+![FuryVision AAV](/versions/2_furyvision_aav/media/cover-furyVision.jpg "FuryVision AAV")
 ## Overview
 The **FuryVision AAV** is an upgraded version of the FURY drone, designed for advanced visual sensing and autonomous navigation. This version incorporates **Intel RealSense cameras** and enhanced components, making it ideal for missions that require precise spatial awareness and mapping.
 
@@ -12,11 +12,11 @@ The **FuryVision AAV** is an upgraded version of the FURY drone, designed for ad
 
 ## What's Included
 - Detailed frame and component designs (STL, CAD).
-- Pre-configured firmware for optimized flight performance.
-- ROS integration for RealSense camera data handling.
+- Pre-configured parameters for optimized flight performance.
+- ROS integration for RealSense camera data handling (Update soon).
 
 ## Documentation
-- [Assembly Guide](docs/ASSEMBLY_GUIDE.md) - Instructions for assembling the drone frame and components.
+- [Assembly Guide](/versions/2_furyvision_aav/docs/Assembly%20of%20FuryVision%20AAV.pdf) - Instructions for assembling the drone frame and components.
 - [Installation Guide](docs/INSTALLATION.md) - Step-by-step setup and configuration.
 - [Troubleshooting](docs/TROUBLESHOOTING.md) - Solutions to common issues during assembly, calibration, and flight.
 

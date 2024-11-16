@@ -12,7 +12,7 @@ The repository contains everything you need to build, modify, and fly the **Fury
 The **Fury Drone** is engineered to push the boundaries of **unmanned aerial systems (UAS)** technology. It integrates components such as the **Pixhawk Orange Cube+ flight controller**, **Intel RealSense cameras**, **Emax brushless motors**, and **Here 3+ GPS module** for precise navigation and mission versatility.
 
 This repository covers:
-- **Original Fury Drone**: Developed as the core platform for high-performance UAS missions, the original version was designed by **SPIN Laboratory (ACES 307), Dept. of Electrical Engineering, IIT Kanpur**.
+- **Original Fury Drone**: Developed as the core platform for high-performance UAS missions, the original version was designed by **SPIN Laboratory, Dept. of Electrical Engineering, IIT Kanpur**.
 - **FuryVision AAV**: A modified version designed to accommodate **four Intel RealSense cameras** for enhanced visual and spatial sensing. This version was developed by the **Open Drone Team, CDOH Lab, ICFOSS, Thiruvananthapuram**, based on the requirements specified by IIT Kanpur.
 
 ---
@@ -23,10 +23,10 @@ This repository contains two main versions of the Fury drone:
 
 1. **Original Fury Drone**  
    - The foundational version of the Fury platform, designed for general high-performance UAS missions.
-   - Developed by **SPIN Laboratory (ACES 307), Dept. of Electrical Engineering, IIT Kanpur**.
+   - Developed by **SPIN Laboratory, Dept. of Electrical Engineering, IIT Kanpur**.
    - This version features basic flight capabilities using the **Pixhawk Orange Cube+** and standard UAS components.
 
-2. **FuryVision AAV**  
+2. [**FuryVision AAV**](/versions/2_furyvision_aav/README.md)  
    - An upgraded version of the Fury drone, modified to mount and integrate **four Intel RealSense cameras** for enhanced visual and spatial sensing.
    - Developed by the **Open Drone Team, CDOH Lab, ICFOSS, Thiruvananthapuram**, based on requirements specified by **IIT Kanpur**.
    - Includes advanced capabilities for visual sensing, spatial mapping, and autonomous navigation.
