@@ -6,14 +6,14 @@ This guide addresses common issues encountered during assembly, firmware install
 ---
 
 ## **Table of Contents**
-1. [Firmware and Parameter Issues](#firmware-and-parameter-issues)
-2. [Radio Calibration Issues](#radio-calibration-issues)
-3. [ESC and Motor Issues](#esc-and-motor-issues)
-4. [Sensor Calibration Issues](#sensor-calibration-issues)
-5. [Flight Issues](#flight-issues)
-6. [Camera and Sensor Integration Issues](#camera-and-sensor-integration-issues)
-7. [General Hardware Issues](#general-hardware-issues)
-8. [Additional Resources](#additional-resources)
+1. [Firmware and Parameter Issues](#1-firmware-and-parameter-issues)
+2. [Radio Calibration Issues](#2-radio-calibration-issues)
+3. [ESC and Motor Issues](#3-esc-and-motor-issues)
+4. [Sensor Calibration Issues](#4-sensor-calibration-issues)
+5. [Flight Issues](#5-flight-issues)
+6. [Camera and Sensor Integration Issues](#6-camera-and-sensor-integration-issues)
+7. [General Hardware Issues](#7-general-hardware-issues)
+8. [Additional Resources](#8-additional-resources)
 
 ---
 
