@@ -150,6 +150,8 @@ The **Holybro Tekko 4in1 ESC** supports **DShot** for digital motor control. Man
 5. Reboot the Pixhawk and test motor spin using the **Motor Test** function in Mission Planner.
 6. Adjust **DShot settings** in **Mission Planner** as needed to fine-tune performance.
 
+**Referance for Dshot ESC setup: [Link](https://ardupilot.org/copter/docs/common-dshot-escs.html)**
+
 ---
 
 ## 5. Testing
