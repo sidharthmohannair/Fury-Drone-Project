@@ -100,9 +100,9 @@ furyvision_aav/
 
 ## **Contributing and Feedback**
 - For issues or feature requests, please open an issue on our [GitHub Issues](https://github.com/sidharthmohannair/Fury-Drone-Project/issues) page.
-- Contributions are welcome! Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+- Contributions are welcome! Refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines.
 
 ---
 
 ## **License**
-This project is licensed under the [MIT License](LICENSE.md). You’re free to use, modify, and distribute it under the terms of the license.
+This project is licensed under the [MIT License](/LICENSE). You’re free to use, modify, and distribute it under the terms of the license.
