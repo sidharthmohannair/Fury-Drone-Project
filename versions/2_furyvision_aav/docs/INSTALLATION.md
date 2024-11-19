@@ -8,22 +8,22 @@ This guide provides an overview of the setup process for the **FuryVision AAV (v
 
 ## Table of Contents
 
-1. [Prerequisites](#prerequisites)
-2. [Hardware Assembly](#hardware-assembly)
-3. [Firmware Installation](#firmware-installation)
-   - [Installing ArduCopter Firmware](#installing-arducopter-firmware)
-   - [Uploading Tuned Parameters](#uploading-tuned-parameters)
-4. [Mission Planner Configuration and Calibration](#mission-planner-configuration-and-calibration)
-   - [Accelerometer Calibration](#accelerometer-calibration)
-   - [Compass Calibration](#compass-calibration)
-   - [Radio Calibration](#radio-calibration)
-   - [Changing Motor Outputs to Aux](#44-changing-motor-outputs-to-a1-a2-a3-a4)
+1. [Prerequisites](#1-prerequisites)
+2. [Hardware Assembly](#2-hardware-assembly)
+3. [Firmware Installation](#3-firmware-installation)
+   - [Installing ArduCopter Firmware](#31-installing-arducopter-firmware)
+   - [Uploading Tuned Parameters](#32-uploading-tuned-parameters)
+4. [Mission Planner Configuration and Calibration](#4-mission-planner-configuration-and-calibration)
+   - [Accelerometer Calibration](#41-accelerometer-calibration)
+   - [Compass Calibration](#42-compass-calibration)
+   - [Radio Calibration](#43--radio-channel-mapping-and-calibration)
+   - [Changing Motor Outputs to Aux](#44-changing-motor-outputs-to-aux-pins)
    - [ESC Calibration using DShot](#45-esc-calibration-using-dshot)
-5. [Testing](#testing)
-   - [Motor Spinning Test](#motor-spinning-test)
-   - [Flight Test](#flight-test)
-6. [Bill of Materials (BOM)](#bill-of-materials-bom)
-7. [Troubleshooting](#troubleshooting)
+5. [Testing](#5-testing)
+   - [Motor Spinning Test](#51-motor-spinning-test)
+   - [Flight Test](#52-flight-test)
+6. [Bill of Materials (BOM)](#6-bill-of-materials-bom)
+7. [Troubleshooting](#7-troubleshooting)
 
 ---
 
