@@ -57,7 +57,7 @@ Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
 If you find a bug, please report it by following these steps:
 - Check the existing issues to ensure the bug hasn't been reported yet.
 - If not, open a new issue and include as much detail as possible:
-  - The version of OpenESC you're using.
+  - The version of Fury Drone you're using.
   - Detailed description of the problem.
   - Steps to reproduce the issue.
   - Any relevant logs, error messages, or screenshots.
