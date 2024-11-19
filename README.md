@@ -87,7 +87,7 @@ We welcome contributions to the **Fury Drone Project**! If you'd like to contrib
 - Create a new branch with your feature or fix.
 - Submit a pull request for review.
 
-Please read the **CONTRIBUTING.md** file for detailed guidelines.
+Please read the [**CONTRIBUTING.md**](/CONTRIBUTING.md) file for detailed guidelines.
 
 ---
 
