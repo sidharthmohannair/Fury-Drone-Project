@@ -19,6 +19,7 @@ The **FuryVision AAV** is an upgraded version of the FURY drone, designed for ad
 - [Assembly Guide](/versions/2_furyvision_aav/docs/Assembly%20of%20FuryVision%20AAV.pdf) - Instructions for assembling the drone frame and components.
 - [Installation Guide](docs/INSTALLATION.md) - Step-by-step setup and configuration.
 - [Troubleshooting](docs/TROUBLESHOOTING.md) - Solutions to common issues during assembly, calibration, and flight.
+- [Performance test results](tests/performance_test_results.pdf) - `/tests` Contains all the performance test results and logs.
 
 ## Basic Folder Structure
 
