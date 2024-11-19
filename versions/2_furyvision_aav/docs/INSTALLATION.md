@@ -17,6 +17,8 @@ This guide provides an overview of the setup process for the **FuryVision AAV (v
    - [Accelerometer Calibration](#accelerometer-calibration)
    - [Compass Calibration](#compass-calibration)
    - [Radio Calibration](#radio-calibration)
+   - [Changing Motor Outputs to Aux](#44-changing-motor-outputs-to-a1-a2-a3-a4)
+   - [ESC Calibration using DShot](#45-esc-calibration-using-dshot)
 5. [Testing](#testing)
    - [Motor Spinning Test](#motor-spinning-test)
    - [Flight Test](#flight-test)
@@ -120,9 +122,9 @@ To ensure optimal flight performance, you will need to calibrate various sensors
 
    **Referance for Radio Calibration: [Link](https://ardupilot.org/planner/docs/common-radio-control-calibration.html)**
 
-### 4.4 Changing Motor Outputs to A1, A2, A3, A4
+### 4.4 Changing Motor Outputs to Aux pins
 
-To change motor outputs from `M1, M2, M3, M4 to A1, A2, A3, A4`:
+To change motor outputs from `M1, M2, M3, M4` to `A1, A2, A3, A4`:
 
 1. In Mission Planner, go to the **Full Parameter Tree/list**.
 2. Locate the motor output parameters (`SERVO1_FUNCTION`, `SERVO2_FUNCTION`, etc.).
