@@ -39,3 +39,6 @@ furyvision_aav/
 1. Assemble the drone using the provided **Assembly Guide**.
 2. Install the firmware and calibrate sensors with **Mission Planner** as described in the **Installation Guide**.
 3. Refer to **Troubleshooting** for any issues during the process.
+
+### FuryVision AAV flying
+![FuryVision AAV flying](media/furryVision_fly.gif "FuryVision AAV flying")
