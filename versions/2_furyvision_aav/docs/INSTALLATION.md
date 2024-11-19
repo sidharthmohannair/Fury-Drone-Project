@@ -187,7 +187,7 @@ If you encounter any issues during installation or calibration, consider the fol
 - Ensure all firmware and parameter files are uploaded correctly.
 - Double-check hardware connections (ESC, motors, GPS, etc.).
 - Re-run calibration steps if the drone shows instability or drift during flight.
-- Consult the **TROUBLESHOOTING.md** file for additional guidance on common problems.
+- Consult the [**TROUBLESHOOTING.md**](/versions/2_furyvision_aav/docs/TROUBLESHOOTING.md) file for additional guidance on common problems.
 
 For more assistance, visit the project’s GitHub Issues page or contact the development team.
 

@@ -26,15 +26,13 @@ The **FuryVision AAV** is an upgraded version of the FURY drone, designed for ad
 furyvision_aav/
 ├── docs/
 │   ├── README.md
-│   ├── INSTALLATION.md
 │   ├── ASSEMBLY_GUIDE.md
+│   ├── INSTALLATION.md
 │   └── TROUBLESHOOTING.md
 ├── hardware/
 ├── firmware/
-├── software/
 ├── tests/
-├── media/
-└── 3rd_party_modules/
+└── media/
 ```
 
 ### Next Steps
