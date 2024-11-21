@@ -1,0 +1,58 @@
+name: Bug Report
+description: Report a bug with the project.
+title: "[BUG] - "
+labels: ["bug"]
+assignees: ""
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill in the following template to help us address the issue efficiently.
+
+  - type: input
+    id: title
+    attributes:
+      label: Brief Description
+      description: Provide a brief description of the bug.
+      placeholder: e.g., "Motor not spinning during flight."
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: List the steps to reproduce the issue.
+      placeholder: |
+        1. Connect the drone to Mission Planner.
+        2. Attempt motor calibration.
+        3. Observe the error message.
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: e.g., "Motors should spin correctly."
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What happened instead?
+      placeholder: e.g., "Motor 1 fails to spin; error message displayed."
+
+  - type: input
+    id: version
+    attributes:
+      label: Project Version
+      description: Specify the version of the Fury Drone Project you’re using.
+      placeholder: e.g., "v2.0"
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity Level
+      options:
+        - Low
+        - Medium
+        - High
