@@ -62,7 +62,7 @@ For the complete step-by-step assembly process, including frame construction, mo
 3. Choose **ArduCopter** as the firmware and install **version 4.5.6 (7ce11b41)** or latest.
 4. Wait for the installation to complete, and then reboot the Pixhawk.
 
-**Referance for Installing ArduCopter Firmware: [Link](https://ardupilot.org/copter/docs/common-loading-firmware-onto-pixhawk.html)**
+**[Referance: Detailed ArduCopter Firmware Installation Guide](/versions/2_furyvision_aav/docs/FIRMWARE_GUIDE.md)**
 
 ### 3.2 Uploading Tuned Parameters
 
